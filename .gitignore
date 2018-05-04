@@ -1,0 +1,10 @@
+#add all idea files to ignore it
+/target/
+/.settings
+/.classpath
+/.idea
+/.project
+/project/project/
+/project/target/
+/report/
+/report.txt
